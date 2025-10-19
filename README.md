@@ -14,6 +14,9 @@ int main()
 ```
 OUTPUT
 <img width="515" height="209" alt="Screenshot 2025-10-19 144912" src="https://github.com/user-attachments/assets/9bc6dc35-caef-41be-9769-2e6566fac542" />
+
+
+
 2)Write a C program to read a value and check whether that number is less than 100 or not. using  if-else
 ```
 #include <stdio.h>
@@ -34,6 +37,9 @@ int main()
 OUTPUT
 <img width="413" height="177" alt="Screenshot 2025-10-19 145506" src="https://github.com/user-attachments/assets/46c09810-34a5-4778-a675-3ace1a526f60" />
 
+
+
+
 3)Write a C program to find simple interest. 
 ```
 #include <stdio.h>
@@ -48,6 +54,9 @@ int main()
 ```
 OUTPUT
 <img width="413" height="177" alt="Screenshot 2025-10-19 145506" src="https://github.com/user-attachments/assets/54d98292-a4b4-458d-9e71-6960b6f1e5e9" />
+
+
+
 
 4)Write a C Program for analysis of people of certain age groups who are eligible for getting a suitable college admission if their condition and norms get satisfied using nested if statement. Assume eligible age is 18 - 25. Total marks >=180.
 ```
@@ -72,10 +81,19 @@ int main()
   printf("\nNot eligible for college admission");
 }
 ```
+
+
+
+
 OUTPUT
 <img width="414" height="170" alt="Screenshot 2025-10-19 151438" src="https://github.com/user-attachments/assets/5884f9e5-2cac-47d9-af68-78ff37efaba1" />
 <img width="449" height="199" alt="Screenshot 2025-10-19 151504" src="https://github.com/user-attachments/assets/966d2348-6a4a-43b8-b4f0-1c1091bce89b" />
 <img width="560" height="211" alt="Screenshot 2025-10-19 151525" src="https://github.com/user-attachments/assets/28e1b379-3d02-4745-901a-3efdadee40bf" />
+
+
+
+
+
 
 5)Write a program to convert centimeter into meter and kilometer
 ```
