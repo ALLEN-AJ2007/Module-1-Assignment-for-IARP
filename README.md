@@ -1,5 +1,5 @@
 # Module-1-Assignment-for-IARP
-PROGRAMS
+PROGRAMS AND OUTPUT
 a)Write a C program to find the ASCII value of given character.
 ```
 #include <stdio.h>
@@ -12,7 +12,7 @@ int main()
    printf("\nAscii value of %c is %d",word,(int)word);
 }
 ```
-OUTPUT
+
 <img width="515" height="209" alt="Screenshot 2025-10-19 144912" src="https://github.com/user-attachments/assets/9bc6dc35-caef-41be-9769-2e6566fac542" />
 
 
@@ -34,7 +34,7 @@ int main()
    printf("\nThe entered number is less than 100");
 }
 ```
-OUTPUT
+
 <img width="413" height="177" alt="Screenshot 2025-10-19 145506" src="https://github.com/user-attachments/assets/46c09810-34a5-4778-a675-3ace1a526f60" />
 
 
@@ -52,7 +52,7 @@ int main()
    printf("\nSimple Interst = %.2f",(principal*year*rate)/100);
 }
 ```
-OUTPUT
+
 <img width="413" height="177" alt="Screenshot 2025-10-19 145506" src="https://github.com/user-attachments/assets/54d98292-a4b4-458d-9e71-6960b6f1e5e9" />
 
 
@@ -85,7 +85,7 @@ int main()
 
 
 
-OUTPUT
+
 <img width="414" height="170" alt="Screenshot 2025-10-19 151438" src="https://github.com/user-attachments/assets/5884f9e5-2cac-47d9-af68-78ff37efaba1" />
 <img width="449" height="199" alt="Screenshot 2025-10-19 151504" src="https://github.com/user-attachments/assets/966d2348-6a4a-43b8-b4f0-1c1091bce89b" />
 <img width="560" height="211" alt="Screenshot 2025-10-19 151525" src="https://github.com/user-attachments/assets/28e1b379-3d02-4745-901a-3efdadee40bf" />
@@ -109,7 +109,7 @@ int main()
   printf("\n The value in meter : %.2fm in km : %.2fkm",m,km);
 }
 ```
-OUTPUT
+
 <img width="525" height="184" alt="Screenshot 2025-10-19 152143" src="https://github.com/user-attachments/assets/3454533b-121f-4653-9ac4-bd3541b94ccb" />
 
 
