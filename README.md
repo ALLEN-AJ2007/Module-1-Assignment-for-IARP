@@ -87,7 +87,15 @@ int main()
 
 
 <img width="414" height="170" alt="Screenshot 2025-10-19 151438" src="https://github.com/user-attachments/assets/5884f9e5-2cac-47d9-af68-78ff37efaba1" />
+
+
+
 <img width="449" height="199" alt="Screenshot 2025-10-19 151504" src="https://github.com/user-attachments/assets/966d2348-6a4a-43b8-b4f0-1c1091bce89b" />
+
+
+
+
+
 <img width="560" height="211" alt="Screenshot 2025-10-19 151525" src="https://github.com/user-attachments/assets/28e1b379-3d02-4745-901a-3efdadee40bf" />
 
 
