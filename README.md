@@ -1,6 +1,8 @@
 # Module-1-Assignment-for-IARP
-PROGRAMS AND OUTPUT
-a)Write a C program to find the ASCII value of given character.
+
+# PROGRAMS AND OUTPUT
+
+# a)Write a C program to find the ASCII value of given character.
 ```
 #include <stdio.h>
 
@@ -17,7 +19,7 @@ int main()
 
 
 
-2)Write a C program to read a value and check whether that number is less than 100 or not. using  if-else
+# 2)Write a C program to read a value and check whether that number is less than 100 or not. using  if-else
 ```
 #include <stdio.h>
 
@@ -40,7 +42,7 @@ int main()
 
 
 
-3)Write a C program to find simple interest. 
+# 3)Write a C program to find simple interest. 
 ```
 #include <stdio.h>
 
@@ -58,7 +60,7 @@ int main()
 
 
 
-4)Write a C Program for analysis of people of certain age groups who are eligible for getting a suitable college admission if their condition and norms get satisfied using nested if statement. Assume eligible age is 18 - 25. Total marks >=180.
+# 4)Write a C Program for analysis of people of certain age groups who are eligible for getting a suitable college admission if their condition and norms get satisfied using nested if statement. Assume eligible age is 18 - 25. Total marks >=180.
 ```
 #include <stdio.h>
 
@@ -103,7 +105,7 @@ int main()
 
 
 
-5)Write a program to convert centimeter into meter and kilometer
+# 5)Write a program to convert centimeter into meter and kilometer
 ```
 #include <stdio.h>
 
